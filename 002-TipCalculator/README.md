@@ -13,6 +13,7 @@
 
 #### What I learned:
 Different ways you can format a string using variables.
-How to properly round numbers to an x amount of numbers after the decimals.
+
+How to properly round numbers to an x amount of numbers after the decimal.
 
 

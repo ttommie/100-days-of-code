@@ -13,4 +13,7 @@
 
 #### What I learned:
 How to properly use the for loop with range & list.
+
+Found an optimized way to scramble the easyPassword into the hardPassword.
+
 How to use random.simple() to mix up a set or list of data.

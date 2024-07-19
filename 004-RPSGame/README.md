@@ -13,4 +13,5 @@
 
 #### What I learned:
 How easily you can use list to call similar data pieces when needed.
+
 Using error checking to make sure the user plays correctly.

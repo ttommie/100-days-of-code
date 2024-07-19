@@ -13,6 +13,7 @@
 
 #### What I learned:
 You can use the same input variable to ask for different inputs.
+
 Don't use upper without adding () on the end. XD
 
 
